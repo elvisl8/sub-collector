@@ -1,1 +1,1 @@
-sources=80 v2ray_nodes=200 clash_proxies=200 dup_removed=24585 ss_dropped=6465 bad_skipped=396 clash_bad=0 endpoints=8740 alive_endpoints=4994 dead_dropped=4436 unchecked_udp=479 real_tested=2399 real_passed=380 real_bad=1
+sources=74 v2ray_nodes=200 clash_proxies=200 dup_removed=24219 ss_dropped=5700 bad_skipped=337 clash_bad=0 endpoints=7757 alive_endpoints=4082 dead_dropped=4363 unchecked_udp=435 real_tested=1999 real_passed=373 real_bad=1
